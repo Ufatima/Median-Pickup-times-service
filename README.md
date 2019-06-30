@@ -13,23 +13,23 @@ Response:
 This project has a REST API endpoint that accepts location id, start time and end time parameters and returns the median pickup time.This project also concerns about data caching. Redis is used data caching. 
 
 # Requirements
--virtualenv
--python3
--Redis
+- virtualenv
+- python3
+- Redis
 
 # Installation
 1. Clone the repo
-git https://github.com/UmmulFatima/Wolt-Coding-Assignment-Pickup-times-service.git
-2.Create a virtual environment
+'git clone https://github.com/UmmulFatima/Wolt-Coding-Assignment-Pickup-times-service.git'
+2. Create a virtual environment
 python3 -m venv pickuptime-service
-3.cd to the folder
+3. cd to the folder
 cd pickuptime-service
-4.Activate the virtual env:
+4. Activate the virtual env:
 source bin/activate
-5.Install requirements:
+5. Install requirements:
 pip3 install requirements.txt
 6. Install redis server
-https://redis.io/topics/quickstart
+[Redis](https://redis.io/topics/quickstart)
 
 # All done!
 Now you are ready to run the APP
