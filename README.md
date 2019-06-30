@@ -40,8 +40,10 @@ pip3 install requirements.txt
 ```
 6. Install redis server
 ```
-[Redis](https://redis.io/topics/quickstart)
+[Redis]
 ```
+(https://redis.io/topics/quickstart)
+
 # All done!
 Now you are ready to run the APP
 python wolt_app.py
