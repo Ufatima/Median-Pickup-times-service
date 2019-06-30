@@ -46,4 +46,6 @@ pip3 install requirements.txt
 
 # All done!
 Now you are ready to run the APP
+```
 python wolt_app.py
+```
