@@ -19,9 +19,9 @@ This project has a REST API endpoint that accepts location id, start time and en
 
 # Installation
 1. Clone the repo
-'git clone https://github.com/UmmulFatima/Wolt-Coding-Assignment-Pickup-times-service.git'
+> 'git clone https://github.com/UmmulFatima/Wolt-Coding-Assignment-Pickup-times-service.git'
 2. Create a virtual environment
-python3 -m venv pickuptime-service
+> python3 -m venv pickuptime-service
 3. cd to the folder
 cd pickuptime-service
 4. Activate the virtual env:
