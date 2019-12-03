@@ -10,7 +10,7 @@ Response:
 }
 
 # About the project
-This project has a REST API endpoint that accepts location id, start time and end time parameters and returns the median pickup time.This project also concerns about data caching. ## Redis is used for data caching. 
+This project has a REST API endpoint that accepts location id, start time and end time parameters and returns the median pickup time.This project also concerns about data caching. # Redis is used for data caching. 
 
 # Requirements
 - virtualenv
